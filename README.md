@@ -19,7 +19,7 @@ This project is a Node.js backend application built with Express.js and MongoDB 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/vaibhavdike/Authentication-And-Authrization-Usinf-JWT-and-Cookies
     ```
 
 2. Install dependencies:
